@@ -4,8 +4,6 @@ font-family: 'Raleway', sans-serif;
 }
 .header { background-color: white;
 }
-.header-navigation {
-}
 .header-logo {font-family: 'Raleway';
   font-style: normal;
   font-weight: 800;
@@ -21,8 +19,6 @@ font-family: 'Raleway', sans-serif;
 }
 .link{
   text-decoration: none;
-}
-.header-item {
 }
 .header-link {
   font-weight: 500;
@@ -76,5 +72,36 @@ color: #F4F4FD;
 }
 .footer-logo > span {text-decoration: none #4D5AE5;
 }
-  
-
+.header-web {
+  color:#4D5AE5
+}  
+.header-led {
+  color: #2E2F42;
+}
+.addredd-led {
+  color: #434455;
+}
+.btns .btns-btn {
+  color: #4D5AE5;
+  background: #F4F4FD;
+}
+.btn:hover {
+  color: #F4F4FD;
+  background: #4D5AE5;
+}
+.products .products-prd {
+  color: #2E2F42;
+ }
+.foot .foot-logo {
+  font-family: 'Raleway', sans-serif ;
+font-weight: 800;
+font-size: 18px;
+line-height: 1.17;
+color:#F4F4FD
+}
+.foot {
+  background: #2E2F42;
+}
+.foot .foot-text {
+color: #E7E9FC;
+}
